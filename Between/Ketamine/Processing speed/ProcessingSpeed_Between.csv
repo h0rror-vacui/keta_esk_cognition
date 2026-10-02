@@ -1,0 +1,13 @@
+﻿Study;yi;vi;SE;age_mean;female_percent;ect_status;study_length_days;diagnosis_type;control_type;other_medication;dose_mgkg;baseline_depression_severity;net_depression_advantage
+Loo et al., 2012;0,004;0,07;0,265;43;64;ECT;14;mixed;placebo;yes;0,5;32,4;NA
+Murrough et al., 2015;0;0,0759;0,275;45,5;54,8;no_ECT;1;mdd;midazolam;no;0,5;32,5;27,84
+Rybakowski et al., 2016;-0,049;0,1;0,316;53;75,5;ECT;25;mixed;thiopental;NA;1,5;36,59;8,27
+Zhong et al., 2016;0,267;0,0504;0,225;30,6;60;ECT;56;mixed;propofol;no;0,5;31,81;7,12
+Grunebaum et al., 2017;-1,167;0,2965;0,545;41;62,5;no_ECT;180;bd;midazolam;yes;0,5;27,44;NA
+Zhang et a., 2018;-0,213;0,053;0,23;30,2;53,2;ECT;14;mixed;propofol;yes;0,5;34;6,39
+Sharma et al., 2020;0,992;0,5031;0,709;38;56;no_ECT;14;mixed;ect;yes;0,5;27,83;NA
+Shiroma et al., 2020;0,685;0,101;0,318;53;18,6;no_ECT;13;mdd;midazolam;no;0,5;34,8;-11,8
+Keilp et al., 2021;0,193;0,0515;0,227;38;60,3;no_ECT;1;mdd;midazolam;yes;0,5;34,64;12,32
+Dong et al., 2023;1,837;0,0801;0,283;33;54,9;ECT;28;mdd;placebo;yes;0,3;37,71;5,22
+Martin et al., 2024 (Cohort 1);0,01;0,068;0,261;47;25;no_ECT;28;mdd;midazolam;no;0,5;NA;NA
+Martin et al., 2024 (Cohort 2);0,256;0,0475;0,218;45;38,7;no_ECT;28;mdd;midazolam;no;0,7;NA;NA
